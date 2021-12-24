@@ -1,0 +1,11 @@
+.post 
+{
+    margin:17px;
+    background-color: rgb(245, 245, 245);
+}
+.viewPost,
+.viewPost:hover
+{
+    text-decoration: none;
+    color:#fff;
+}

@@ -1,0 +1,29 @@
+.img 
+{
+    width:73px;
+    height:auto;
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+}
+.row-inner 
+{
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+    background-color: rgb(243, 243, 243);
+    padding:6px;
+    margin-top:9px;
+}
+.p p
+{
+    margin-bottom:5px;
+}
+b
+{
+    color: #0059ff;
+}
